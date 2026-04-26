@@ -200,7 +200,7 @@ fluttertoast: ^8.2.4               # Toast messages
 
 ## 🎥 Demo Video
 
-📺 **YouTube Link:** [https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/YOUR_VIDEO_ID)
+📺 **YouTube Link:** [https://youtu.be/w_vLLz0slWM)
 
 > The 2-minute demo covers: Registration → Login → Create Task → Update Task → Delete Task → Logout
 
